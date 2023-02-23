@@ -1,0 +1,2 @@
+API End-Point Ex.
+http://localhost:3000/fish/red-snapper
